@@ -1,0 +1,22 @@
+{
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/style.css -o dist/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnbroaddusivccv/tailwind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnbroaddusivccv/tailwind/issues"
+  },
+  "homepage": "https://github.com/johnbroaddusivccv/tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^1.0.5"
+  }
+}
